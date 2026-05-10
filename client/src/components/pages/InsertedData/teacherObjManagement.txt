@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Sarfaraz Ahmed Bhutto",
+    "Designation": "Assistant Professor and Incharge (MS)",
+    "department": "Management Sciences",
+    "email": "sarfaraz.bhutto@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 4.7
+  },
+  {
+    "name": "Dr. Nazia Nazeer",
+    "Designation": "Associate Professor",
+    "department": "Management Sciences",
+    "email": "nazia.nazeer@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 4.5
+  },
+  {
+    "name": "Dr. Anwar Mughees Alam",
+    "Designation": "Assistant Professor",
+    "department": "Management Sciences",
+    "email": "anwar.mughees@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Dr. Mohsin Ali",
+    "Designation": "Assistant Professor",
+    "department": "Management Sciences",
+    "email": "mohsan.ali@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Dr. Mushtaq Ahmed",
+    "Designation": "Assistant Professor",
+    "department": "Management Sciences",
+    "email": "mushtaq.ahmed@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.3
+  },
+  {
+    "name": "Mr. Muhammad Ahsan",
+    "Designation": "Assistant Professor",
+    "department": "Management Sciences",
+    "email": "ahsan.khan@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.9
+  },
+  {
+    "name": "Mr. Michael Hieman Simon",
+    "Designation": "Lecturer",
+    "department": "Management Sciences",
+    "email": "micheal.simon@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Ms. Asiya Zaheer",
+    "Designation": "Lecturer",
+    "department": "Management Sciences",
+    "email": "asiyazaheer@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Mr. Jahangir Tanveer",
+    "Designation": "Lecturer",
+    "department": "Management Sciences",
+    "email": "jahangir.tanveer@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.8
+  },
+  {
+    "name": "Ms. Museara",
+    "Designation": "Lecturer",
+    "department": "Management Sciences",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.7
+  },
+  {
+    "name": "Mr. Umar Farooque",
+    "Designation": "Lecturer",
+    "department": "Management Sciences",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Ms. Zehra Mukhtiar",
+    "Designation": "Lecturer",
+    "department": "Management Sciences",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Dr. Muhammad Saad",
+    "Designation": "Assistant Professor",
+    "department": "Management Sciences",
+    "email": "saad.siddiqui@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Ms. Sabeen Yaqoob",
+    "Designation": "Lecturer",
+    "department": "Management Sciences",
+    "email": "sabeen.yaqoob@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.9
+  }
+]

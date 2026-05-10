@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Dr. Abdul Aziz",
+    "Designation": "Associate Professor and HOD (CS)",
+    "department": "Computer Science",
+    "email": "abdulaziz@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Zulfiqar Ali Memon",
+    "Designation": "Professor and Director",
+    "department": "Computer Science",
+    "email": "zulfiqar.memon@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Jawwad Ahmed Shamsi",
+    "Designation": "Professor and Dean (Computing)",
+    "department": "Computer Science",
+    "email": "jawwad.shamsi@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Ghufran Ahmed",
+    "Designation": "Professor",
+    "department": "Computer Science",
+    "email": "ghufran.ahmed@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Muhammad Nouman Durrani",
+    "Designation": "Associate Professor",
+    "department": "Computer Science",
+    "email": "muhammad.nouman@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Aqsa Aslam",
+    "Designation": "Assistant Professor",
+    "department": "Computer Science",
+    "email": "aqsa.aslam@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Fahad Sherwani",
+    "Designation": "Assistant Professor and GSC (Coordinator)",
+    "department": "Computer Science",
+    "email": "fahad.sherwani@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Farrukh Hasan Syed",
+    "Designation": "Assistant Professor",
+    "department": "Computer Science",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Farrukh Salim Shaikh",
+    "Designation": "Assistant Professor",
+    "department": "Computer Science",
+    "email": "farrukh.salim@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Nadeem Kafi Khan",
+    "Designation": "Assistant Professor",
+    "department": "Computer Science",
+    "email": "nadeem.kafi@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Nasir Uddin",
+    "Designation": "Assistant Professor",
+    "department": "Computer Science",
+    "email": "nasir.uddin@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Rabia Tabassum",
+    "Designation": "Assistant Professor",
+    "department": "Computer Science",
+    "email": "rabia.tabassum@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Abdul Rahman",
+    "Designation": "Assistant Professor",
+    "department": "Computer Science",
+    "email": "abdulrahman@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Muhammad Jamil",
+    "Designation": "Assistant Professor",
+    "department": "Computer Science",
+    "email": "m.jamil@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Syed Kashan Hussain Naqvi",
+    "Designation": "Assistant Professor",
+    "department": "Computer Science",
+    "email": "kashan.hussain@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Ubaid Aftab",
+    "Designation": "Assistant Professor (Adjunct)",
+    "department": "Computer Science",
+    "email": "ubaid.aftab@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Aashir Mahboob",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "aashir.mahboob@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Abeeha Sattar",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "abeeha.sattar@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Anaum Hamid",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "anaum.hamid@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Atiya Jokhio",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "atiya.jokhiyo@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Bakhtawer",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "bakhtawar.abbasi@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Basit Ali",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "basit.jasani@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Fizza Aqeel",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "fizza.aqeel@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Hajra Ahmed",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "hajra.ahmed@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Javeria Farooq",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "javeria.farooq@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Mubashra Fayyaz",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "mubashra.fayyaz@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Muhammad Kashif",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "kashif.shaikh@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Nida Munawar",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "nida.munawwar@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Shahar Bano Husnine",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "shahar.bano@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Shaheer Ahmad Khan",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "shaheer.khan@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Shoaib Rauf",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "shoaib.rauf@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Sobia Iftikhar",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "sobia.iftikhar@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Syed Faisal Ali",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "faisal.ali@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Syed Zain Ul Hassan",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "zain.hassan@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Ubaid Ullah",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "ubaid.ullah.v@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Usama Antuley",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "usama.antuley@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Yusra Kaleem",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "yusra.kaleem@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Zulfiqar Ali",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "zulfiqar.rafique@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Bushra Sattar",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "bushra.sattar@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Fareeha Jabeen",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "fareeha.jabeen@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Fatima Gado",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "fatima.gado@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Ramsha Iqbal",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "ramsha.iqbal@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Sadaf Zehra",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "sadaf.zehra@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Shafique Rahman",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "shafique.rehman@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Syeda Tehreem Gillani",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "syeda.tehreem@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Zainab Asif Jawed",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "zainab.asif@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+
+  {
+    "name": "Dr. Shakil Ahmed",
+    "Designation": "Associate Professor",
+    "department": "Computer Science",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Sumaiyah",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "sumaiyah@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Romasha Khurshid",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "romasha.khurshid@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Musawar Ali",
+    "Designation": "Lecturer",
+    "department": "Computer Science",
+    "email": "musawar.ali@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+
+  {
+    "name": "Mr. Riaz Ahmed",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "riaz.ahmed@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Atif Luqman",
+    "Designation": "Instructor",
+    "department": "Computer Science",
+    "email": "atif.luqman@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  }
+]

@@ -1,0 +1,152 @@
+.Course-page {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem 3rem;
+  min-height: calc(100vh - 60px);
+  box-sizing: border-box;
+}
+
+.Search-sec {
+  display: flex;
+  gap: 0.625rem;
+  margin-bottom: 1.5rem;
+  align-items: center;
+}
+
+.Search-input-wrapper {
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.Search-icon {
+  position: absolute;
+  left: 0.875rem;
+  color: #8a93b0;
+  pointer-events: none;
+}
+
+.Search-bar {
+  width: 100%;
+  height: 2.75rem;
+  font-size: 0.9375rem;
+  padding: 0 2.5rem 0 2.5rem;
+  border: 1.5px solid #dce3f0;
+  border-radius: 8px;
+  outline: none;
+  background: #ffffff;
+  color: #0d1b3e;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+  font-family: "DM Sans", sans-serif;
+  box-sizing: border-box;
+}
+
+.Search-bar::placeholder {
+  color: #8a93b0;
+  font-size: 0.9rem;
+}
+.Search-bar:focus {
+  border-color: #042269;
+  box-shadow: 0 0 0 3px rgba(4, 34, 105, 0.08);
+}
+
+.Search-clear {
+  position: absolute;
+  right: 0.75rem;
+  background: none;
+  border: none;
+  color: #8a93b0;
+  font-size: 0.875rem;
+  cursor: pointer;
+  padding: 0.2rem 0.3rem;
+  border-radius: 4px;
+  transition:
+    color 0.15s,
+    background 0.15s;
+}
+.Search-clear:hover {
+  color: #0d1b3e;
+  background: #f4f6fb;
+}
+
+.Search-btn {
+  height: 2.75rem;
+  padding: 0 1.25rem;
+  font-size: 0.9375rem;
+  background-color: #042269;
+  color: #fff;
+  border-radius: 8px;
+  font-weight: 500;
+  border: 1.5px solid #042269;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s;
+  font-family: "DM Sans", sans-serif;
+}
+.Search-btn:hover {
+  background-color: #0a3a9e;
+  border-color: #0a3a9e;
+}
+
+.Search-empty {
+  color: #4a5578;
+  font-size: 0.9375rem;
+  margin: 0.5rem 0 1rem;
+  padding: 0.75rem 1rem;
+  background: #f4f6fb;
+  border-radius: 8px;
+  border: 1.5px solid #dce3f0;
+}
+
+/* COURSE GRID */
+.Course-List {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.75rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+@media (max-width: 1100px) {
+  .Course-List {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+@media (max-width: 860px) {
+  .Course-List {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 580px) {
+  .Course-List {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .Course-page {
+    padding: 1rem 1rem 2rem;
+  }
+}
+
+.paper-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border: 1.5px solid #042269;
+  border-radius: 8px;
+  background: #fff;
+  color: #042269;
+  cursor: pointer;
+  margin-bottom: 1.25rem;
+  transition: all 0.15s ease;
+  font-family: "DM Sans", sans-serif;
+}
+.paper-btn:hover {
+  background-color: #042269;
+  color: white;
+}

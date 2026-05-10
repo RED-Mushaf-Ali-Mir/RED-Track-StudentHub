@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Dr. Muhammad Shahzad Shaikh",
+    "Designation": "Associate Professor and HOD (Science&Humanities)",
+    "department": "Science and Humanities",
+    "email": "shahzad.shaikh@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 4.8
+  },
+  {
+    "name": "Dr. Khusro Mian",
+    "Designation": "Associate Professor",
+    "department": "Science and Humanities",
+    "email": "khusro.mian@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 4.6
+  },
+  {
+    "name": "Dr. Shahnawaz Muhammad Khan",
+    "Designation": "Assistant Professor",
+    "department": "Science and Humanities",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Dr. Syed Muhammad Fahad Riaz",
+    "Designation": "Assistant Professor",
+    "department": "Science and Humanities",
+    "email": "fahad.riaz@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 4.5
+  },
+  {
+    "name": "Dr. Muhammad Hassan Saeed",
+    "Designation": "Assistant Professor",
+    "department": "Science and Humanities",
+    "email": "hassan.saeed@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 4.3
+  },
+  {
+    "name": "Dr. Wajiha Raheeq",
+    "Designation": "Assistant Professor",
+    "department": "Science and Humanities",
+    "email": "wajeeha.raheeq@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Mr. Muhammad Amjad",
+    "Designation": "Assistant Professor",
+    "department": "Science and Humanities",
+    "email": "muhammad.amjad@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Ms. Aisha Khan",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.9
+  },
+  {
+    "name": "Ms. Alishba Tariq",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "alishba.tariq@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Ms. Aqsa Fayyaz",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "aqsa.fayyaz@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Ms. Asma Masood",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "asma.masood@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Ms. Faiza Iqbal",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "faiza.iqbal@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Ms. Faiza Mumtaz",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "faiza.mumtaz@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Ms. Fareeha Sultan",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "fareeha.sultan@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Mr. Farhan Ali Memon",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "farhan.ali@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Hafiza Khadija Shereen",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "khadija.shereen@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Ms. Huma Hafeez",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "huma.hafeez@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Mr. Ishtiaq Ahmad",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "ishtiaq.ahmed@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.9
+  },
+  {
+    "name": "Ms. Javeria Ali Wadho",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "javeria.ali@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Ms. Javeriya Ahmed Hussain",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "javeriya.ahmed@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Ms. Kauser Malik",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "kauser.malik@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Ms. Khushboo Farid",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "khushboo.farid@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Ms. Madiha Rehman",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "madiha.rehman@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Ms. Mariam Aftab",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.8
+  },
+  {
+    "name": "Mr. Moheez Ur Rahim",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.9
+  },
+  {
+    "name": "Mr. Muhammad Adeel",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "adeel@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Mr. Muhammad Hasham",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "muhammad.hasham@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Mr. Muhammad Rahim",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "muhammad.rahim@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Mr. Muhammad Shahid Ashraf",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "shahid.ashraf@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Mr. Nadeem Khan",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "nadeem.arif@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.9
+  },
+  {
+    "name": "Ms. Nazia Imam",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "nazia.imam@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Ms. Sharmeen Ismail",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "sharmeen.ismail@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Syeda Atifa Batool",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "atifa.batool@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.2
+  },
+  {
+    "name": "Ms. Tahira",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "tahira@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.8
+  },
+  {
+    "name": "Ms. Urooj",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.8
+  },
+  {
+    "name": "Ms. Uzma Saleh",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "uzma.saleh@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Ms. Wajiha Akber Durrani",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "wajiha.akber@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Dr. Nazish Kanwal",
+    "Designation": "Assistant Professor",
+    "department": "Science and Humanities",
+    "email": "nazish.kanwal@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 4.3
+  },
+  {
+    "name": "Mr. Maraj",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "mairaj@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.9
+  },
+  {
+    "name": "Ms. Maimoona Moin",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "maimoona.moin@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Ms. Sana Naz",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "sana.naz@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 3.9
+  },
+  {
+    "name": "Mr. Immad Uddin Ahmed",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "immad.ahmed@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Ms. Quratulain Anwar",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "quratulain.anwar@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Mr. Syed Ashad Ali",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "ashad.ali@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Mr. Abdullah Siddiqui",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "abdullah.siddiqui@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Mr. Muhammad Miqdad Khan",
+    "Designation": "Lecturer",
+    "department": "Science and Humanities",
+    "email": "miqdad.khan@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 4.0
+  }
+]

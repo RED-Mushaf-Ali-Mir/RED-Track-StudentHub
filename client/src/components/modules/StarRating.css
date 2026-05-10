@@ -1,0 +1,18 @@
+/*AI*/
+.star-row {
+  display: flex;
+  gap: 4px;
+}
+.star {
+  font-size: 28px;
+  cursor: pointer;
+  transition: color 0.1s;
+  color: var(--border-color, #ccc);
+  user-select: none;
+}
+.star-filled {
+  color: #ef9f27;
+}
+.star-empty {
+  color: #ccc;
+}

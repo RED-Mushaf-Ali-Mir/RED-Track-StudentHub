@@ -1,0 +1,407 @@
+.Review-page {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem 3rem;
+  min-height: calc(100vh - 60px);
+  font-family: "DM Sans", sans-serif;
+  box-sizing: border-box;
+}
+
+.Search-sec {
+  display: flex;
+  gap: 0.625rem;
+  margin-bottom: 1.5rem;
+  align-items: center;
+}
+
+.Search-input-wrapper {
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.Search-icon {
+  position: absolute;
+  left: 0.875rem;
+  color: #8a93b0;
+  pointer-events: none;
+}
+
+.Search-bar {
+  width: 100%;
+  height: 2.75rem;
+  font-size: 0.9375rem;
+  padding: 0 2.5rem 0 2.5rem;
+  border: 1.5px solid #dce3f0;
+  border-radius: 8px;
+  outline: none;
+  background: #ffffff;
+  color: #0d1b3e;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+  font-family: "DM Sans", sans-serif;
+  box-sizing: border-box;
+}
+
+.Search-bar::placeholder {
+  color: #8a93b0;
+  font-size: 0.9rem;
+}
+.Search-bar:focus {
+  border-color: #042269;
+  box-shadow: 0 0 0 3px rgba(4, 34, 105, 0.08);
+}
+
+.Search-clear {
+  position: absolute;
+  right: 0.75rem;
+  background: none;
+  border: none;
+  color: #8a93b0;
+  font-size: 0.875rem;
+  cursor: pointer;
+  padding: 0.2rem 0.3rem;
+  border-radius: 4px;
+  transition:
+    color 0.15s,
+    background 0.15s;
+}
+.Search-clear:hover {
+  color: #0d1b3e;
+  background: #f4f6fb;
+}
+
+.Search-btn {
+  height: 2.75rem;
+  padding: 0 1.25rem;
+  font-size: 0.9375rem;
+  background-color: #042269;
+  color: #fff;
+  border-radius: 8px;
+  font-weight: 500;
+  border: 1.5px solid #042269;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s;
+  font-family: "DM Sans", sans-serif;
+}
+.Search-btn:hover {
+  background-color: #0a3a9e;
+  border-color: #0a3a9e;
+}
+
+.Search-empty {
+  color: #4a5578;
+  font-size: 0.9375rem;
+  margin: 0.5rem 0 1rem;
+  padding: 0.75rem 1rem;
+  background: #f4f6fb;
+  border-radius: 8px;
+  border: 1.5px solid #dce3f0;
+}
+
+/* TEACHERS GRID - key fix for the squish bug */
+.Teachers-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+@media (max-width: 1000px) {
+  .Teachers-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 680px) {
+  .Teachers-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .Review-page {
+    padding: 1rem 1rem 2rem;
+  }
+}
+@media (max-width: 420px) {
+  .Teachers-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+.review-form {
+  background: #ffffff;
+  border: 1.5px solid #dce3f0;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.review-form-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #0d1b3e;
+  margin: 0 0 1rem 0;
+}
+.review-count {
+  font-size: 0.8rem;
+  color: #8a93b0;
+  font-weight: 400;
+  margin-left: 0.4rem;
+}
+
+.criteria-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+@media (max-width: 480px) {
+  .criteria-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.criteria-card {
+  background: #f4f6fb;
+  border: 1px solid #dce3f0;
+  border-radius: 8px;
+  padding: 0.875rem;
+}
+.criteria-label {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: #0d1b3e;
+  margin: 0 0 0.5rem 0;
+}
+.criteria-score {
+  font-size: 0.75rem;
+  color: #8a93b0;
+  margin-top: 0.375rem;
+  display: block;
+}
+
+.score-summary {
+  display: flex;
+  justify-content: space-between;
+  background: #f4f6fb;
+  border: 1px solid #dce3f0;
+  border-radius: 8px;
+  padding: 0.875rem 1rem;
+  margin-bottom: 1rem;
+}
+.score-label {
+  display: block;
+  font-size: 0.75rem;
+  color: #8a93b0;
+  margin-bottom: 0.2rem;
+}
+.score-value {
+  font-size: 1.375rem;
+  font-weight: 600;
+  color: #042269;
+  font-family: "DM Mono", monospace;
+}
+
+.review-comment-box {
+  width: 100%;
+  min-height: 80px;
+  border: 1.5px solid #dce3f0;
+  border-radius: 8px;
+  padding: 0.75rem;
+  font-size: 0.9rem;
+  resize: vertical;
+  margin-bottom: 0.75rem;
+  font-family: "DM Sans", sans-serif;
+  color: #0d1b3e;
+  outline: none;
+  transition: border-color 0.15s;
+  box-sizing: border-box;
+}
+.review-comment-box:focus {
+  border-color: #042269;
+}
+
+.submit-review-btn {
+  width: 100%;
+  padding: 0.75rem;
+  background: #042269;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s;
+  font-family: "DM Sans", sans-serif;
+}
+.submit-review-btn:hover {
+  background: #0a3a9e;
+}
+
+.submit-msg {
+  font-size: 0.8125rem;
+  color: #c0392b;
+  margin-bottom: 0.75rem;
+}
+.submit-msg--success {
+  color: #16a34a;
+}
+
+.past-reviews {
+  background: #ffffff;
+  border: 1.5px solid #dce3f0;
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+
+.review-item {
+  background: #f4f6fb;
+  border: 1px solid #dce3f0;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+}
+.review-item:last-child {
+  margin-bottom: 0;
+}
+
+.review-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+.reviewer-name {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #0d1b3e;
+}
+.review-date {
+  font-size: 0.75rem;
+  color: #8a93b0;
+}
+
+.review-breakdown {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+  margin-bottom: 0.5rem;
+}
+.breakdown-badge {
+  font-size: 0.75rem;
+  border: 1px solid #dce3f0;
+  border-radius: 100px;
+  padding: 0.15rem 0.625rem;
+  color: #4a5578;
+  background: #fff;
+}
+
+.review-avg {
+  font-size: 0.9rem;
+  color: #b07a10;
+  margin-bottom: 0.375rem;
+}
+.review-avg span {
+  color: #8a93b0;
+  font-size: 0.8rem;
+}
+.review-comment-text {
+  font-size: 0.875rem;
+  color: #4a5578;
+  margin: 0;
+  line-height: 1.5;
+}
+.no-reviews {
+  font-size: 0.875rem;
+  color: #8a93b0;
+  margin: 0;
+}
+
+/* ========================= */
+/* TEACHER DETAIL PAGE FIX   */
+/* ========================= */
+
+.Teacher-detail-page {
+  max-width: 1100px !important;
+  margin: 0 auto !important;
+  width: 100%;
+}
+
+/* Course title on papers view */
+.papers-course-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #0d1b3e;
+  margin: 0 0 1.25rem 0;
+  font-family: "DM Sans", sans-serif;
+}
+
+.papers-loading,
+.papers-empty {
+  font-size: 0.9375rem;
+  color: #8a93b0;
+  padding: 2rem 0;
+  font-family: "DM Sans", sans-serif;
+}
+/* ── Exam papers section ── */
+.teacher-papers-section {
+  background: #ffffff;
+  border: 1.5px solid #dce3f0;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.papers-chips-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.paper-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0;
+  border-radius: 100px;
+  border: 1.5px solid #dce3f0;
+  background: #f4f6fb;
+  font-size: 0.775rem;
+  font-weight: 500;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.paper-chip-course {
+  padding: 0.3rem 0.625rem;
+  color: #0d1b3e;
+  background: #e8ecf7;
+}
+
+.paper-chip-divider {
+  width: 1.5px;
+  align-self: stretch;
+  background: #dce3f0;
+}
+
+.paper-chip-meta {
+  padding: 0.3rem 0.625rem;
+  color: #4a5578;
+}
+
+/* difficulty tint on the left badge */
+.paper-chip--easy .paper-chip-course {
+  background: #dcf3e8;
+  color: #166534;
+}
+.paper-chip--medium .paper-chip-course {
+  background: #fef3c7;
+  color: #92400e;
+}
+.paper-chip--hard .paper-chip-course {
+  background: #fee2e2;
+  color: #991b1b;
+}

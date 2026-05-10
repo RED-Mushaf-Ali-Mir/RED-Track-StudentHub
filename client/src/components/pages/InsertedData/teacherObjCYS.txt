@@ -1,0 +1,120 @@
+[
+ 
+  {
+    "name": "Dr. Shahbaz Siddiqui",
+    "Designation": "Associate Professor and HOD CYS",
+    "department": "Cyber Security",
+    "email": "shahbaz.siddiqui@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Sufian Hameed",
+    "Designation": "Professor",
+    "department": "Cyber Security",
+    "email": "sufian.hameed@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Shoaib Raza",
+    "Designation": "Lecturer",
+    "department": "Cyber Security",
+    "email": "shoaib.raza@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Rabia Ahmed Ansari",
+    "Designation": "Lecturer",
+    "department": "Cyber Security",
+    "email": "rabia.ansari@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Abuzar Zafar",
+    "Designation": "Lecturer",
+    "department": "Cyber Security",
+    "email": "abuzar.zafar@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Abeer Gauher",
+    "Designation": "Lecturer",
+    "department": "Cyber Security",
+    "email": "abeer.gauher@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Muhammad Ali Naseer Shah",
+    "Designation": "Lecturer",
+    "department": "Cyber Security",
+    "email": "ali.musavi.shah@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Sandesh Kumar",
+    "Designation": "Lecturer",
+    "department": "Cyber Security",
+    "email": "sandesh.kumar@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Muhammad Nouman Rajput",
+    "Designation": "Lecturer",
+    "department": "Cyber Security",
+    "email": "nouman.rajput@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Muhammad Usman",
+    "Designation": "Lecturer",
+    "department": "Cyber Security",
+    "email": "muhammadusman@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Waseem Rauf",
+    "Designation": "Lecturer",
+    "department": "Cyber Security",
+    "email": "waseem.rauf@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Saqib Shah",
+    "Designation": "Instructor",
+    "department": "Cyber Security",
+    "email": "saqib.shah@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Amna Aslam",
+    "Designation": "Instructor",
+    "department": "Cyber Security",
+    "email": "amna.aslam@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  }
+]

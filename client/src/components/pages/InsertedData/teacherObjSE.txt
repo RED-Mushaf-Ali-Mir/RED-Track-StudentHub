@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dr. Anam Qureshi",
+    "Designation": "Incharge & Assistant Professor",
+    "department": "Software Engineering",
+    "email": "anam.qureshi@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Imran Ali Bhatti",
+    "Designation": "Assistant Professor (On Leave)",
+    "department": "Software Engineering",
+    "email": "imran.ali@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Muhammad Ali Shah Fatmi",
+    "Designation": "Lecturer",
+    "department": "Software Engineering",
+    "email": "ali.shah@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Syeda Rubab",
+    "Designation": "Lecturer",
+    "department": "Software Engineering",
+    "email": "syeda.rubab@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Minhal Raza",
+    "Designation": "Lecturer",
+    "department": "Software Engineering",
+    "email": "minhal.raza@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Alina Arshad",
+    "Designation": "Lecturer",
+    "department": "Software Engineering",
+    "email": "alina.arshad@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Hira Tunio",
+    "Designation": "Lecturer",
+    "department": "Software Engineering",
+    "email": "hira.tunio@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Fizza Mansoor",
+    "Designation": "Lecturer (On Leave)",
+    "department": "Software Engineering",
+    "email": "fizza.mansoor@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Maqsood Khatoon",
+    "Designation": "Lecturer",
+    "department": "Software Engineering",
+    "email": "maqsood.khatoon@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Muhammad Nadeem",
+    "Designation": "Instructor",
+    "department": "Software Engineering",
+    "email": "muhammad.nadeem@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Syeda Ravia Ejaz",
+    "Designation": "Instructor",
+    "department": "Software Engineering",
+    "email": "ravia.ijaz@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Kinza Mushtaq",
+    "Designation": "Instructor",
+    "department": "Software Engineering",
+    "email": "kinza.mushtaq@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  }
+]

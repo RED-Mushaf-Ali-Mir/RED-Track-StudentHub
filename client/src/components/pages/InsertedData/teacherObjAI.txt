@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Dr. Muhammad Rafi",
+    "Designation": "Professor and HOD (AI&DS)",
+    "department": "AI&DS",
+    "email": "muhammad.rafi@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Muhammad Farrukh Shahid",
+    "Designation": "Assistant Professor",
+    "department": "AI&DS",
+    "email": "mfarrukh.shahid@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Maria Siddiqua",
+    "Designation": "Assistant Professor",
+    "department": "AI&DS",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": true,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Kamran Ali",
+    "Designation": "Assistant Professor",
+    "department": "AI&DS",
+    "email": "kamran.ali@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Dr Muhammad Waqas",
+    "Designation": "Assistant Professor",
+    "department": "AI&DS",
+    "email": "waqas.sheikh@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Dr. Muhammad Yaseen Khan",
+    "Designation": "Assistant Professor",
+    "department": "AI&DS",
+    "email": "muhammad.yaseen@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Syed Farooq Zaidi",
+    "Designation": "Senior Lecturer",
+    "department": "AI&DS",
+    "email": "farooq.zaidi@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Saeeda Kanwal",
+    "Designation": "Lecturer",
+    "department": "AI&DS",
+    "email": "saeeda.kanwal@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Sania Urooj",
+    "Designation": "Lecturer",
+    "department": "AI&DS",
+    "email": "sania.urooj@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Omer Qureshi",
+    "Designation": "Lecturer",
+    "department": "AI&DS",
+    "email": "omer.qureshi@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Syed Bilal Ahsan",
+    "Designation": "Lecturer",
+    "department": "AI&DS",
+    "email": "bilal.ahsan@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Mehak Mazhar",
+    "Designation": "Lecturer",
+    "department": "AI&DS",
+    "email": "mehak.mazhar@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Sameer Faisal",
+    "Designation": "Lecturer",
+    "department": "AI&DS",
+    "email": "sameer.faisal@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Talha Shahid",
+    "Designation": "Lecturer",
+    "department": "AI&DS",
+    "email": "talha.shahid@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Saif ur Rehman",
+    "Designation": "Lecturer",
+    "department": "AI&DS",
+    "email": "saifurrehman@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Mahrukh Khan",
+    "Designation": "Lecturer",
+    "department": "AI&DS",
+    "email": "mahrukh.khan@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Muhammad Khalid Khan",
+    "Designation": "Instructor",
+    "department": "AI&DS",
+    "email": "mkhalid.khan@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Alishba Subhani",
+    "Designation": "Instructor",
+    "department": "AI&DS",
+    "email": "alishba.subhani@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Ramsha Jatt",
+    "Designation": "Instructor",
+    "department": "AI&DS",
+    "email": "ramsha.jat@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Mr. Jahanzaib",
+    "Designation": "Instructor",
+    "department": "AI&DS",
+    "email": "",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  },
+  {
+    "name": "Ms. Khadeeja Ashraf",
+    "Designation": "Instructor",
+    "department": "AI&DS",
+    "email": "khadeeja.ahsraf@nu.edu.pk",
+    "photo": "",
+    "phdSupervisor": false,
+    "rating": 0
+  }
+]
